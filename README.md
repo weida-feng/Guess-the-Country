@@ -1,4 +1,4 @@
-# Map Guesser
+# Map Guesser — Guess the Country
 
 A bilingual geography quiz built with Python and Streamlit. Identify a country or region from its outline, choose one of four answers, and complete a ten-round game.
 
