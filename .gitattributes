@@ -1,0 +1,9 @@
+* text=auto
+*.py text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+*.shp binary
+*.shx binary
+*.dbf binary
+data/source/** linguist-vendored=true
+assets/maps/** linguist-generated=true
