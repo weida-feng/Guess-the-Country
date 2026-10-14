@@ -1,0 +1,992 @@
+[
+  {
+    "id": "afghanistan",
+    "name_en": "Afghanistan",
+    "name_zh": "阿富汗",
+    "source_name": "Afghanistan"
+  },
+  {
+    "id": "albania",
+    "name_en": "Albania",
+    "name_zh": "阿尔巴尼亚",
+    "source_name": "Albania"
+  },
+  {
+    "id": "algeria",
+    "name_en": "Algeria",
+    "name_zh": "阿尔及利亚",
+    "source_name": "Algeria"
+  },
+  {
+    "id": "andorra",
+    "name_en": "Andorra",
+    "name_zh": "安道尔",
+    "source_name": "Andorra"
+  },
+  {
+    "id": "angola",
+    "name_en": "Angola",
+    "name_zh": "安哥拉",
+    "source_name": "Angola"
+  },
+  {
+    "id": "argentina",
+    "name_en": "Argentina",
+    "name_zh": "阿根廷",
+    "source_name": "Argentina"
+  },
+  {
+    "id": "armenia",
+    "name_en": "Armenia",
+    "name_zh": "亚美尼亚",
+    "source_name": "Armenia"
+  },
+  {
+    "id": "australia",
+    "name_en": "Australia",
+    "name_zh": "澳大利亚",
+    "source_name": "Australia"
+  },
+  {
+    "id": "austria",
+    "name_en": "Austria",
+    "name_zh": "奥地利",
+    "source_name": "Austria"
+  },
+  {
+    "id": "azerbaijan",
+    "name_en": "Azerbaijan",
+    "name_zh": "阿塞拜疆",
+    "source_name": "Azerbaijan"
+  },
+  {
+    "id": "bahrain",
+    "name_en": "Bahrain",
+    "name_zh": "巴林",
+    "source_name": "Bahrain"
+  },
+  {
+    "id": "bangladesh",
+    "name_en": "Bangladesh",
+    "name_zh": "孟加拉国",
+    "source_name": "Bangladesh"
+  },
+  {
+    "id": "belarus",
+    "name_en": "Belarus",
+    "name_zh": "白罗斯",
+    "source_name": "Belarus"
+  },
+  {
+    "id": "belize",
+    "name_en": "Belize",
+    "name_zh": "伯利兹",
+    "source_name": "Belize"
+  },
+  {
+    "id": "benin",
+    "name_en": "Benin",
+    "name_zh": "贝宁",
+    "source_name": "Benin"
+  },
+  {
+    "id": "bhutan",
+    "name_en": "Bhutan",
+    "name_zh": "不丹",
+    "source_name": "Bhutan"
+  },
+  {
+    "id": "bolivia",
+    "name_en": "Bolivia",
+    "name_zh": "玻利维亚",
+    "source_name": "Bolivia"
+  },
+  {
+    "id": "botswana",
+    "name_en": "Botswana",
+    "name_zh": "博茨瓦纳",
+    "source_name": "Botswana"
+  },
+  {
+    "id": "brazil",
+    "name_en": "Brazil",
+    "name_zh": "巴西",
+    "source_name": "Brazil"
+  },
+  {
+    "id": "brunei",
+    "name_en": "Brunei",
+    "name_zh": "文莱",
+    "source_name": "Brunei"
+  },
+  {
+    "id": "bulgaria",
+    "name_en": "Bulgaria",
+    "name_zh": "保加利亚",
+    "source_name": "Bulgaria"
+  },
+  {
+    "id": "burkina-faso",
+    "name_en": "Burkina Faso",
+    "name_zh": "布基纳法索",
+    "source_name": "Burkina Faso"
+  },
+  {
+    "id": "burundi",
+    "name_en": "Burundi",
+    "name_zh": "布隆迪",
+    "source_name": "Burundi"
+  },
+  {
+    "id": "cambodia",
+    "name_en": "Cambodia",
+    "name_zh": "柬埔寨",
+    "source_name": "Cambodia"
+  },
+  {
+    "id": "cameroon",
+    "name_en": "Cameroon",
+    "name_zh": "喀麦隆",
+    "source_name": "Cameroon"
+  },
+  {
+    "id": "canada",
+    "name_en": "Canada",
+    "name_zh": "加拿大",
+    "source_name": "Canada"
+  },
+  {
+    "id": "central-african-rep",
+    "name_en": "Central African Republic",
+    "name_zh": "中非共和国",
+    "source_name": "Central African Rep."
+  },
+  {
+    "id": "chad",
+    "name_en": "Chad",
+    "name_zh": "乍得",
+    "source_name": "Chad"
+  },
+  {
+    "id": "chile",
+    "name_en": "Chile",
+    "name_zh": "智利",
+    "source_name": "Chile"
+  },
+  {
+    "id": "colombia",
+    "name_en": "Colombia",
+    "name_zh": "哥伦比亚",
+    "source_name": "Colombia"
+  },
+  {
+    "id": "congo",
+    "name_en": "Republic of the Congo",
+    "name_zh": "刚果（布）",
+    "source_name": "Congo"
+  },
+  {
+    "id": "costa-rica",
+    "name_en": "Costa Rica",
+    "name_zh": "哥斯达黎加",
+    "source_name": "Costa Rica"
+  },
+  {
+    "id": "croatia",
+    "name_en": "Croatia",
+    "name_zh": "克罗地亚",
+    "source_name": "Croatia"
+  },
+  {
+    "id": "cuba",
+    "name_en": "Cuba",
+    "name_zh": "古巴",
+    "source_name": "Cuba"
+  },
+  {
+    "id": "curacao",
+    "name_en": "Curaçao",
+    "name_zh": "库拉索",
+    "source_name": "Curaçao"
+  },
+  {
+    "id": "czechia",
+    "name_en": "Czechia",
+    "name_zh": "捷克",
+    "source_name": "Czechia"
+  },
+  {
+    "id": "cote-d-ivoire",
+    "name_en": "Côte d'Ivoire",
+    "name_zh": "科特迪瓦",
+    "source_name": "Côte d'Ivoire"
+  },
+  {
+    "id": "dem-rep-congo",
+    "name_en": "Democratic Republic of the Congo",
+    "name_zh": "刚果（金）",
+    "source_name": "Dem. Rep. Congo"
+  },
+  {
+    "id": "denmark",
+    "name_en": "Denmark",
+    "name_zh": "丹麦",
+    "source_name": "Denmark"
+  },
+  {
+    "id": "djibouti",
+    "name_en": "Djibouti",
+    "name_zh": "吉布提",
+    "source_name": "Djibouti"
+  },
+  {
+    "id": "dominica",
+    "name_en": "Dominica",
+    "name_zh": "多米尼克",
+    "source_name": "Dominica"
+  },
+  {
+    "id": "dominican-rep",
+    "name_en": "Dominican Republic",
+    "name_zh": "多米尼加共和国",
+    "source_name": "Dominican Rep."
+  },
+  {
+    "id": "ecuador",
+    "name_en": "Ecuador",
+    "name_zh": "厄瓜多尔",
+    "source_name": "Ecuador"
+  },
+  {
+    "id": "egypt",
+    "name_en": "Egypt",
+    "name_zh": "埃及",
+    "source_name": "Egypt"
+  },
+  {
+    "id": "el-salvador",
+    "name_en": "El Salvador",
+    "name_zh": "萨尔瓦多",
+    "source_name": "El Salvador"
+  },
+  {
+    "id": "england",
+    "name_en": "England",
+    "name_zh": "英格兰",
+    "source_name": "England"
+  },
+  {
+    "id": "eq-guinea",
+    "name_en": "Equatorial Guinea",
+    "name_zh": "赤道几内亚",
+    "source_name": "Eq. Guinea"
+  },
+  {
+    "id": "eritrea",
+    "name_en": "Eritrea",
+    "name_zh": "厄立特里亚",
+    "source_name": "Eritrea"
+  },
+  {
+    "id": "estonia",
+    "name_en": "Estonia",
+    "name_zh": "爱沙尼亚",
+    "source_name": "Estonia"
+  },
+  {
+    "id": "ethiopia",
+    "name_en": "Ethiopia",
+    "name_zh": "埃塞俄比亚",
+    "source_name": "Ethiopia"
+  },
+  {
+    "id": "finland",
+    "name_en": "Finland",
+    "name_zh": "芬兰",
+    "source_name": "Finland"
+  },
+  {
+    "id": "france",
+    "name_en": "France",
+    "name_zh": "法国",
+    "source_name": "France"
+  },
+  {
+    "id": "gabon",
+    "name_en": "Gabon",
+    "name_zh": "加蓬",
+    "source_name": "Gabon"
+  },
+  {
+    "id": "gambia",
+    "name_en": "Gambia",
+    "name_zh": "冈比亚",
+    "source_name": "Gambia"
+  },
+  {
+    "id": "georgia",
+    "name_en": "Georgia",
+    "name_zh": "格鲁吉亚",
+    "source_name": "Georgia"
+  },
+  {
+    "id": "germany",
+    "name_en": "Germany",
+    "name_zh": "德国",
+    "source_name": "Germany"
+  },
+  {
+    "id": "ghana",
+    "name_en": "Ghana",
+    "name_zh": "加纳",
+    "source_name": "Ghana"
+  },
+  {
+    "id": "greece",
+    "name_en": "Greece",
+    "name_zh": "希腊",
+    "source_name": "Greece"
+  },
+  {
+    "id": "greenland",
+    "name_en": "Greenland",
+    "name_zh": "格陵兰",
+    "source_name": "Greenland"
+  },
+  {
+    "id": "guatemala",
+    "name_en": "Guatemala",
+    "name_zh": "危地马拉",
+    "source_name": "Guatemala"
+  },
+  {
+    "id": "guinea",
+    "name_en": "Guinea",
+    "name_zh": "几内亚",
+    "source_name": "Guinea"
+  },
+  {
+    "id": "guinea-bissau",
+    "name_en": "Guinea-Bissau",
+    "name_zh": "几内亚比绍",
+    "source_name": "Guinea-Bissau"
+  },
+  {
+    "id": "guyana",
+    "name_en": "Guyana",
+    "name_zh": "圭亚那",
+    "source_name": "Guyana"
+  },
+  {
+    "id": "haiti",
+    "name_en": "Haiti",
+    "name_zh": "海地",
+    "source_name": "Haiti"
+  },
+  {
+    "id": "honduras",
+    "name_en": "Honduras",
+    "name_zh": "洪都拉斯",
+    "source_name": "Honduras"
+  },
+  {
+    "id": "hungary",
+    "name_en": "Hungary",
+    "name_zh": "匈牙利",
+    "source_name": "Hungary"
+  },
+  {
+    "id": "iceland",
+    "name_en": "Iceland",
+    "name_zh": "冰岛",
+    "source_name": "Iceland"
+  },
+  {
+    "id": "india",
+    "name_en": "India",
+    "name_zh": "印度",
+    "source_name": "India"
+  },
+  {
+    "id": "indonesia",
+    "name_en": "Indonesia",
+    "name_zh": "印度尼西亚",
+    "source_name": "Indonesia"
+  },
+  {
+    "id": "iran",
+    "name_en": "Iran",
+    "name_zh": "伊朗",
+    "source_name": "Iran"
+  },
+  {
+    "id": "iraq",
+    "name_en": "Iraq",
+    "name_zh": "伊拉克",
+    "source_name": "Iraq"
+  },
+  {
+    "id": "ireland",
+    "name_en": "Ireland",
+    "name_zh": "爱尔兰",
+    "source_name": "Ireland"
+  },
+  {
+    "id": "israel",
+    "name_en": "Israel",
+    "name_zh": "以色列",
+    "source_name": "Israel"
+  },
+  {
+    "id": "italy",
+    "name_en": "Italy",
+    "name_zh": "意大利",
+    "source_name": "Italy"
+  },
+  {
+    "id": "jamaica",
+    "name_en": "Jamaica",
+    "name_zh": "牙买加",
+    "source_name": "Jamaica"
+  },
+  {
+    "id": "japan",
+    "name_en": "Japan",
+    "name_zh": "日本",
+    "source_name": "Japan"
+  },
+  {
+    "id": "jordan",
+    "name_en": "Jordan",
+    "name_zh": "约旦",
+    "source_name": "Jordan"
+  },
+  {
+    "id": "kazakhstan",
+    "name_en": "Kazakhstan",
+    "name_zh": "哈萨克斯坦",
+    "source_name": "Kazakhstan"
+  },
+  {
+    "id": "kenya",
+    "name_en": "Kenya",
+    "name_zh": "肯尼亚",
+    "source_name": "Kenya"
+  },
+  {
+    "id": "kuwait",
+    "name_en": "Kuwait",
+    "name_zh": "科威特",
+    "source_name": "Kuwait"
+  },
+  {
+    "id": "kyrgyzstan",
+    "name_en": "Kyrgyzstan",
+    "name_zh": "吉尔吉斯斯坦",
+    "source_name": "Kyrgyzstan"
+  },
+  {
+    "id": "laos",
+    "name_en": "Laos",
+    "name_zh": "老挝",
+    "source_name": "Laos"
+  },
+  {
+    "id": "latvia",
+    "name_en": "Latvia",
+    "name_zh": "拉脱维亚",
+    "source_name": "Latvia"
+  },
+  {
+    "id": "lebanon",
+    "name_en": "Lebanon",
+    "name_zh": "黎巴嫩",
+    "source_name": "Lebanon"
+  },
+  {
+    "id": "lesotho",
+    "name_en": "Lesotho",
+    "name_zh": "莱索托",
+    "source_name": "Lesotho"
+  },
+  {
+    "id": "liberia",
+    "name_en": "Liberia",
+    "name_zh": "利比里亚",
+    "source_name": "Liberia"
+  },
+  {
+    "id": "libya",
+    "name_en": "Libya",
+    "name_zh": "利比亚",
+    "source_name": "Libya"
+  },
+  {
+    "id": "liechtenstein",
+    "name_en": "Liechtenstein",
+    "name_zh": "列支敦士登",
+    "source_name": "Liechtenstein"
+  },
+  {
+    "id": "lithuania",
+    "name_en": "Lithuania",
+    "name_zh": "立陶宛",
+    "source_name": "Lithuania"
+  },
+  {
+    "id": "luxembourg",
+    "name_en": "Luxembourg",
+    "name_zh": "卢森堡",
+    "source_name": "Luxembourg"
+  },
+  {
+    "id": "madagascar",
+    "name_en": "Madagascar",
+    "name_zh": "马达加斯加",
+    "source_name": "Madagascar"
+  },
+  {
+    "id": "malawi",
+    "name_en": "Malawi",
+    "name_zh": "马拉维",
+    "source_name": "Malawi"
+  },
+  {
+    "id": "malaysia",
+    "name_en": "Malaysia",
+    "name_zh": "马来西亚",
+    "source_name": "Malaysia"
+  },
+  {
+    "id": "mali",
+    "name_en": "Mali",
+    "name_zh": "马里",
+    "source_name": "Mali"
+  },
+  {
+    "id": "malta",
+    "name_en": "Malta",
+    "name_zh": "马耳他",
+    "source_name": "Malta"
+  },
+  {
+    "id": "mauritania",
+    "name_en": "Mauritania",
+    "name_zh": "毛里塔尼亚",
+    "source_name": "Mauritania"
+  },
+  {
+    "id": "mexico",
+    "name_en": "Mexico",
+    "name_zh": "墨西哥",
+    "source_name": "Mexico"
+  },
+  {
+    "id": "moldova",
+    "name_en": "Moldova",
+    "name_zh": "摩尔多瓦",
+    "source_name": "Moldova"
+  },
+  {
+    "id": "monaco",
+    "name_en": "Monaco",
+    "name_zh": "摩纳哥",
+    "source_name": "Monaco"
+  },
+  {
+    "id": "mongolia",
+    "name_en": "Mongolia",
+    "name_zh": "蒙古",
+    "source_name": "Mongolia"
+  },
+  {
+    "id": "montenegro",
+    "name_en": "Montenegro",
+    "name_zh": "黑山",
+    "source_name": "Montenegro"
+  },
+  {
+    "id": "morocco",
+    "name_en": "Morocco",
+    "name_zh": "摩洛哥",
+    "source_name": "Morocco"
+  },
+  {
+    "id": "mozambique",
+    "name_en": "Mozambique",
+    "name_zh": "莫桑比克",
+    "source_name": "Mozambique"
+  },
+  {
+    "id": "myanmar",
+    "name_en": "Myanmar",
+    "name_zh": "缅甸",
+    "source_name": "Myanmar"
+  },
+  {
+    "id": "n-ireland",
+    "name_en": "Northern Ireland",
+    "name_zh": "北爱尔兰",
+    "source_name": "N. Ireland"
+  },
+  {
+    "id": "namibia",
+    "name_en": "Namibia",
+    "name_zh": "纳米比亚",
+    "source_name": "Namibia"
+  },
+  {
+    "id": "nauru",
+    "name_en": "Nauru",
+    "name_zh": "瑙鲁",
+    "source_name": "Nauru"
+  },
+  {
+    "id": "nepal",
+    "name_en": "Nepal",
+    "name_zh": "尼泊尔",
+    "source_name": "Nepal"
+  },
+  {
+    "id": "netherlands",
+    "name_en": "Netherlands",
+    "name_zh": "尼德兰",
+    "source_name": "Netherlands"
+  },
+  {
+    "id": "nicaragua",
+    "name_en": "Nicaragua",
+    "name_zh": "尼加拉瓜",
+    "source_name": "Nicaragua"
+  },
+  {
+    "id": "niger",
+    "name_en": "Niger",
+    "name_zh": "尼日尔",
+    "source_name": "Niger"
+  },
+  {
+    "id": "nigeria",
+    "name_en": "Nigeria",
+    "name_zh": "尼日利亚",
+    "source_name": "Nigeria"
+  },
+  {
+    "id": "north-korea",
+    "name_en": "North Korea",
+    "name_zh": "朝鲜",
+    "source_name": "North Korea"
+  },
+  {
+    "id": "north-macedonia",
+    "name_en": "North Macedonia",
+    "name_zh": "北马其顿",
+    "source_name": "North Macedonia"
+  },
+  {
+    "id": "norway",
+    "name_en": "Norway",
+    "name_zh": "挪威",
+    "source_name": "Norway"
+  },
+  {
+    "id": "oman",
+    "name_en": "Oman",
+    "name_zh": "阿曼",
+    "source_name": "Oman"
+  },
+  {
+    "id": "pakistan",
+    "name_en": "Pakistan",
+    "name_zh": "巴基斯坦",
+    "source_name": "Pakistan"
+  },
+  {
+    "id": "panama",
+    "name_en": "Panama",
+    "name_zh": "巴拿马",
+    "source_name": "Panama"
+  },
+  {
+    "id": "papua-new-guinea",
+    "name_en": "Papua New Guinea",
+    "name_zh": "巴布亚新几内亚",
+    "source_name": "Papua New Guinea"
+  },
+  {
+    "id": "paraguay",
+    "name_en": "Paraguay",
+    "name_zh": "巴拉圭",
+    "source_name": "Paraguay"
+  },
+  {
+    "id": "peru",
+    "name_en": "Peru",
+    "name_zh": "秘鲁",
+    "source_name": "Peru"
+  },
+  {
+    "id": "philippines",
+    "name_en": "Philippines",
+    "name_zh": "菲律宾",
+    "source_name": "Philippines"
+  },
+  {
+    "id": "poland",
+    "name_en": "Poland",
+    "name_zh": "波兰",
+    "source_name": "Poland"
+  },
+  {
+    "id": "portugal",
+    "name_en": "Portugal",
+    "name_zh": "葡萄牙",
+    "source_name": "Portugal"
+  },
+  {
+    "id": "puerto-rico",
+    "name_en": "Puerto Rico",
+    "name_zh": "波多黎各",
+    "source_name": "Puerto Rico"
+  },
+  {
+    "id": "qatar",
+    "name_en": "Qatar",
+    "name_zh": "卡塔尔",
+    "source_name": "Qatar"
+  },
+  {
+    "id": "romania",
+    "name_en": "Romania",
+    "name_zh": "罗马尼亚",
+    "source_name": "Romania"
+  },
+  {
+    "id": "rwanda",
+    "name_en": "Rwanda",
+    "name_zh": "卢旺达",
+    "source_name": "Rwanda"
+  },
+  {
+    "id": "s-sudan",
+    "name_en": "South Sudan",
+    "name_zh": "南苏丹",
+    "source_name": "S. Sudan"
+  },
+  {
+    "id": "san-marino",
+    "name_en": "San Marino",
+    "name_zh": "圣马力诺",
+    "source_name": "San Marino"
+  },
+  {
+    "id": "saudi-arabia",
+    "name_en": "Saudi Arabia",
+    "name_zh": "沙特阿拉伯",
+    "source_name": "Saudi Arabia"
+  },
+  {
+    "id": "scotland",
+    "name_en": "Scotland",
+    "name_zh": "苏格兰",
+    "source_name": "Scotland"
+  },
+  {
+    "id": "senegal",
+    "name_en": "Senegal",
+    "name_zh": "塞内加尔",
+    "source_name": "Senegal"
+  },
+  {
+    "id": "sierra-leone",
+    "name_en": "Sierra Leone",
+    "name_zh": "塞拉利昂",
+    "source_name": "Sierra Leone"
+  },
+  {
+    "id": "singapore",
+    "name_en": "Singapore",
+    "name_zh": "新加坡",
+    "source_name": "Singapore"
+  },
+  {
+    "id": "slovakia",
+    "name_en": "Slovakia",
+    "name_zh": "斯洛伐克",
+    "source_name": "Slovakia"
+  },
+  {
+    "id": "slovenia",
+    "name_en": "Slovenia",
+    "name_zh": "斯洛文尼亚",
+    "source_name": "Slovenia"
+  },
+  {
+    "id": "south-africa",
+    "name_en": "South Africa",
+    "name_zh": "南非",
+    "source_name": "South Africa"
+  },
+  {
+    "id": "south-korea",
+    "name_en": "South Korea",
+    "name_zh": "韩国",
+    "source_name": "South Korea"
+  },
+  {
+    "id": "spain",
+    "name_en": "Spain",
+    "name_zh": "西班牙",
+    "source_name": "Spain"
+  },
+  {
+    "id": "sri-lanka",
+    "name_en": "Sri Lanka",
+    "name_zh": "斯里兰卡",
+    "source_name": "Sri Lanka"
+  },
+  {
+    "id": "sudan",
+    "name_en": "Sudan",
+    "name_zh": "苏丹",
+    "source_name": "Sudan"
+  },
+  {
+    "id": "suriname",
+    "name_en": "Suriname",
+    "name_zh": "苏里南",
+    "source_name": "Suriname"
+  },
+  {
+    "id": "sweden",
+    "name_en": "Sweden",
+    "name_zh": "瑞典",
+    "source_name": "Sweden"
+  },
+  {
+    "id": "switzerland",
+    "name_en": "Switzerland",
+    "name_zh": "瑞士",
+    "source_name": "Switzerland"
+  },
+  {
+    "id": "syria",
+    "name_en": "Syria",
+    "name_zh": "叙利亚",
+    "source_name": "Syria"
+  },
+  {
+    "id": "tajikistan",
+    "name_en": "Tajikistan",
+    "name_zh": "塔吉克斯坦",
+    "source_name": "Tajikistan"
+  },
+  {
+    "id": "tanzania",
+    "name_en": "Tanzania",
+    "name_zh": "坦桑尼亚",
+    "source_name": "Tanzania"
+  },
+  {
+    "id": "thailand",
+    "name_en": "Thailand",
+    "name_zh": "泰国",
+    "source_name": "Thailand"
+  },
+  {
+    "id": "timor-leste",
+    "name_en": "Timor-Leste",
+    "name_zh": "东帝汶",
+    "source_name": "Timor-Leste"
+  },
+  {
+    "id": "tunisia",
+    "name_en": "Tunisia",
+    "name_zh": "突尼斯",
+    "source_name": "Tunisia"
+  },
+  {
+    "id": "turkey",
+    "name_en": "Turkey",
+    "name_zh": "土耳其",
+    "source_name": "Turkey"
+  },
+  {
+    "id": "turkmenistan",
+    "name_en": "Turkmenistan",
+    "name_zh": "土库曼斯坦",
+    "source_name": "Turkmenistan"
+  },
+  {
+    "id": "uganda",
+    "name_en": "Uganda",
+    "name_zh": "乌干达",
+    "source_name": "Uganda"
+  },
+  {
+    "id": "united-arab-emirates",
+    "name_en": "United Arab Emirates",
+    "name_zh": "阿拉伯联合酋长国",
+    "source_name": "United Arab Emirates"
+  },
+  {
+    "id": "uruguay",
+    "name_en": "Uruguay",
+    "name_zh": "乌拉圭",
+    "source_name": "Uruguay"
+  },
+  {
+    "id": "uzbekistan",
+    "name_en": "Uzbekistan",
+    "name_zh": "乌兹别克斯坦",
+    "source_name": "Uzbekistan"
+  },
+  {
+    "id": "vatican",
+    "name_en": "Vatican City",
+    "name_zh": "梵蒂冈",
+    "source_name": "Vatican"
+  },
+  {
+    "id": "venezuela",
+    "name_en": "Venezuela",
+    "name_zh": "委内瑞拉",
+    "source_name": "Venezuela"
+  },
+  {
+    "id": "vietnam",
+    "name_en": "Vietnam",
+    "name_zh": "越南",
+    "source_name": "Vietnam"
+  },
+  {
+    "id": "wales",
+    "name_en": "Wales",
+    "name_zh": "威尔士",
+    "source_name": "Wales"
+  },
+  {
+    "id": "yemen",
+    "name_en": "Yemen",
+    "name_zh": "也门",
+    "source_name": "Yemen"
+  },
+  {
+    "id": "zambia",
+    "name_en": "Zambia",
+    "name_zh": "赞比亚",
+    "source_name": "Zambia"
+  },
+  {
+    "id": "zimbabwe",
+    "name_en": "Zimbabwe",
+    "name_zh": "津巴布韦",
+    "source_name": "Zimbabwe"
+  },
+  {
+    "id": "eswatini",
+    "name_en": "Eswatini",
+    "name_zh": "斯瓦蒂尼",
+    "source_name": "eSwatini"
+  }
+]
